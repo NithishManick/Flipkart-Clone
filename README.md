@@ -1,4 +1,4 @@
-# project
+# Flipkart Clone
 
 A new Flutter project.
 
